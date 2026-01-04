@@ -4,5 +4,5 @@ title: Algebra Boole'a
 slug: algebra-boolea
 draft: false
 links:
-- [Logika Cyfrowa](/digital-logic/index.pl.md?label=parent)
+- "[Logika Cyfrowa](/digital-logic/index.pl.md?label=parent)"
 ---

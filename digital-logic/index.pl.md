@@ -4,5 +4,5 @@ title: Logika cyfrowa
 slug: logika-cyfrowa
 draft: false
 links:
-- [Architektura komputerów](/computer-architecture/index.pl.md?label=parent)
+- "[Architektura komputerów](/computer-architecture/index.pl.md?label=parent)"
 ---

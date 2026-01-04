@@ -4,5 +4,5 @@ title: Architektura komputerów
 slug: architektura-komputerow
 draft: false
 links:
-- [inżynieria](/engineering/index.pl.md?label=parent)
+- "[inżynieria](/engineering/index.pl.md?label=parent)"
 ---
