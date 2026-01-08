@@ -4,5 +4,5 @@ title: System dziesiętny
 slug: system-dziesietny
 draft: false
 links:
-- "[Systemy liczbowe](/numeral-systems/index.pl.md?label=parent)"
+- "[Systemy pozycyjne](/place-value-notation/index.pl.md?label=parent)"
 ---
