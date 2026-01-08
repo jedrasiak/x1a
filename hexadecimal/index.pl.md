@@ -4,5 +4,5 @@ title: System szesnastkowy
 slug: system-szesnastkowy
 draft: false
 links:
-- "[Systemy liczbowe](/number-systems/index.pl.md?label=parent)"
+- "[Systemy liczbowe](/numeral-systems/index.pl.md?label=parent)"
 ---
